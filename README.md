@@ -1,5 +1,10 @@
 # French Bakery Sales Analysis  
 
+**Project Title:** Retail Sales Analysis  
+**Tools:** MS SQL Server, Microsoft SQL Server Management Studio (SSMS)  
+**Database:** Bakery_db  
+**Dataset Source:** [French Bakery Daily Sales](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales)
+
 ## Project Description  
 This project focuses on analyzing the daily sales of a French bakery to uncover actionable business insights. By leveraging SQL, the project includes setting up a database, cleaning and preparing the dataset, and conducting exploratory data analysis (EDA) to evaluate the bakery's sales performance. It aims to identify customer preferences, sales trends, and areas for improvement, providing data-driven recommendations to optimize business operations and support the bakery's growth.  
 
